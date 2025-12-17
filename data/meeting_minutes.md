@@ -13,8 +13,7 @@
 ### Key Decisions
 * **Topic Chosen:** "Flight Risk Calculator based on Weather Conditions".
 * **Rationale:** We want to build a tool that helps pilots or flight controllers make quick decisions based on multiple variables (wind, rain, visibility).
-* **Programming Language:** Python (simple and effective for logic implementation).
-
+* **Programming Language:** Python
 ### Action Items
 * [Raphael B]: Research which weather parameters are critical for aviation safety.
 * [Matthieu]: Setup the programming language.
