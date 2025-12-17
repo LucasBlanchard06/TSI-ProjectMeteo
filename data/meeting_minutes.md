@@ -17,7 +17,7 @@
 
 ### Action Items
 * [Raphael B]: Research which weather parameters are critical for aviation safety.
-* [Matthieu]: Setup the development environment.
+* [Matthieu]: Setup the programming language.
 * [Team]: Prepare the Project Proposal.
 
 ---
