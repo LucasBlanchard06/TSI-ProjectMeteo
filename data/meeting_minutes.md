@@ -85,7 +85,7 @@
 ---
 
 ## Meeting 5: Final Portfolio & Presentation Prep
-**Date:** 2024-12-20
+**Date:** 2025-17-12
 **Attendees:** All team members
 **Duration:** 2 hours
 
