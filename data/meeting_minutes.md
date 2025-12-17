@@ -42,7 +42,7 @@
 ---
 
 ## Meeting 3: Core Implementation
-**Date:** 2024-11-10
+**Date:** 2025-09-11
 **Attendees:** All team members
 **Duration:** 1.5 hours
 
@@ -56,19 +56,18 @@
 * **Solution:** For this prototype, we will use a Python dictionary (`dict`) to store data in memory during the session.
 
 ### Action Items
-* [Student 1]: Implement the input validation (ensure users type numbers, not text).
-* [Student 2]: Add the "Seasonal Analysis" feature to compare risks across seasons.
+* [Lucas]: Implement the input validation (ensure users type numbers, not text).
+* [Paul]: Add the "Seasonal Analysis" feature to compare risks across seasons.
 
 ---
 
 ## Meeting 4: Code Refactoring and Language Standardization
-**Date:** 2024-12-05
+**Date:** 2025-23-11
 **Attendees:** All team members
 **Duration:** 1 hour
 
 ### Agenda
 * Code review and cleanup.
-* Preparing for the final submission.
 
 ### Key Decisions
 * **Language Change:** The initial code was partly in French. We decided to translate the entire codebase (variables, comments, UI) into English to meet professional standards and module requirements.
@@ -77,24 +76,23 @@
 
 ### Action Items
 * [Team]: Push the final English version of `main.py` to GitHub.
-* [Student 1]: Write the README file.
+* [Lucas]: Write the README file.
 
 ---
 
 ## Meeting 5: Final Portfolio & Presentation Prep
-**Date:** 2025-17-12
+**Date:** 2025-07-12
 **Attendees:** All team members
 **Duration:** 2 hours
 
 ### Agenda
 * Final check of deliverables against the Assessment Specification.
-* Preparing the Viva presentation.
+* Preparing the presentation.
 
 ### Key Decisions
 * **Portfolio:** The GitHub repository is public and organized.
-* **Reflective Report:** Each member confirmed they are writing their individual 500-word report.
-* **Presentation Strategy:** We will demonstrate the code running live during the Viva.
+* **Presentation Strategy:** We will demonstrate the code running live during the presentation.
 
 ### Action Items
-* [Team]: Submit the GitHub link to Moodle before Dec 27th.
+* [Team]: Submit the GitHub link to Moodle before Dec 19th.
 * [Team]: Rehearse the presentation slides.
