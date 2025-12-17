@@ -1,8 +1,8 @@
 # Team Meeting Minutes
 
 ## Meeting 1: Project Kick-off and Topic Selection
-**Date:** 2024-09-12
-**Attendees:** [Student 1], [Student 2], [Student 3]
+**Date:** 2025-02-11
+**Attendees:** [Matthieu], [Raphael B], [Paul], [Lucas B]
 **Duration:** 1 hour
 
 ### Agenda
@@ -16,19 +16,18 @@
 * **Programming Language:** Python (simple and effective for logic implementation).
 
 ### Action Items
-* [Student 1]: Research which weather parameters are critical for aviation safety.
-* [Student 2]: Setup the development environment.
-* [Team]: Prepare the Project Proposal for the October deadline.
+* [Raphael B]: Research which weather parameters are critical for aviation safety.
+* [Matthieu]: Setup the development environment.
+* [Team]: Prepare the Project Proposal.
 
 ---
 
 ## Meeting 2: Proposal Finalization
-**Date:** 2024-10-05
+**Date:** 2025-04-11
 **Attendees:** All team members
 **Duration:** 45 minutes
 
-### Agenda
-* Reviewing the Project Proposal document (1,000 words).
+### Agenda.
 * Planning the code structure.
 
 ### Key Decisions
@@ -36,11 +35,9 @@
 * **Risk Scoring System:** We decided to implement a point-based system.
     * Low score = Safe.
     * High score = Dangerous.
-* **Submission:** Proposal is ready to be submitted before Oct 15th.
 
 ### Action Items
-* [Team]: Submit the proposal on Moodle.
-* [Student 3]: Start drafting the Python functions for the scoring logic.
+* [Matthieu]: Start drafting the Python functions for the scoring logic.
 
 ---
 
